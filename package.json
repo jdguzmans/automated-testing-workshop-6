@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "rsync -r ./VRT_colorPallete/ /var/www/regresion.ingeinsta.com/html"
+    "deploy": "rsync -r ./VRT_colorPallete/ /var/www/prueba.ingeinsta.com/html"
   },
   "repository": {
     "type": "git",

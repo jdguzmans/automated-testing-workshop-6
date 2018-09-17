@@ -1,0 +1,19 @@
+{
+  "name": "automated-testing-workshop-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "rsync -r ./VRT_colorPallete/ /var/www/regresion.ingeinsta.com/html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdguzmans/automated-testing-workshop-6.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdguzmans/automated-testing-workshop-6/issues"
+  },
+  "homepage": "https://github.com/jdguzmans/automated-testing-workshop-6#readme"
+}
